@@ -1,0 +1,5 @@
+information retrieval system
+positional index representation
+stop word removal
+binary search tree performance
+tolerant retrieval model
