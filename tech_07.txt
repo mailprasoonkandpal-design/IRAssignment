@@ -1,0 +1,1 @@
+﻿A data driven experiment measured query latency in a binary search tree and a b tree structure.

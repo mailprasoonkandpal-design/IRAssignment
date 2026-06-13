@@ -1,0 +1,1 @@
+﻿A search engine uses positional index data to answer an exact phrase like information retrieval model.

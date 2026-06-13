@@ -1,0 +1,1 @@
+﻿A cloud ready service used a high speed cache and near real time indexing for multilingual content.
